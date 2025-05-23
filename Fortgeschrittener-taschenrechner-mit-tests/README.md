@@ -24,7 +24,7 @@ Verfügbare Operationen:
 Alle Funktionen werden mit `assert` Anweisungen getestet. Diese befinden sich in der Datei `test_calculator.py`.
 Wenn keine Fehlermeldung erscheint, funktionieren alle Funktionen korrekt. Im Fehlerfall wird eine `AssertionError` ausgegeben.
 
-Zum Ausführen des Tests:
+Zum Ausführen des Tests;
 
 ```bash
 python test_calculator.py
