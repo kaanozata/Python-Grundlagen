@@ -7,7 +7,7 @@ Dieses Programm, das automatisch Testszenarien für Formularfelder wie Name, E-M
 Das Programm:
 
 - Fragt den Benutzer nach Name, E-Mail und Passwort
-- Erzeugt automatisch 5 typische Testfälle:
+- Erzeugt automatisch 5 typische Testfälle;
   - Gültiger Eintrag
   - Leerer Name
   - Ungültige E-Mail-Adresse
