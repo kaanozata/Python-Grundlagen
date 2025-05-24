@@ -2,7 +2,7 @@
 
 Dieses Programm, das automatisch Testszenarien für Formularfelder wie Name, E-Mail und Passwort generiert, wurde entwickelt, um praktische Erfahrungen im Bereich Software-Testing (QA) zu sammeln.
 
-## 🔍 Was macht das Programm?
+## Was macht das Programm?
 
 Das Programm:
 
